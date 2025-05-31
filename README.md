@@ -22,15 +22,14 @@ This project focuses on abstractive text summarization using the T5 Transformer 
 
 ## 📊 Model Performance
 
-| Metric   | Value |
-|----------|-------|
-| ROUGE-1  | 47.2  |
-| ROUGE-2  | 22.8  |
-| ROUGE-L  | 43.5  |
-| Epochs   | 3     |
-| Accuracy (eval set) | ~81% summary similarity |
+| Metric   | Value  |
+|----------|--------|
+| ROUGE-1  | 34.02  |
+| ROUGE-2  | 14.61  |
+| ROUGE-L  | 2486   |
+| Epochs   | 3      |
 
-✅ Evaluation performed on a custom summarization dataset using `datasets` and Hugging Face's `rouge` metric.
+✅ Evaluation performed on a test summarization dataset using `datasets` and Hugging Face's `rouge` metric.
 
 ---
 
