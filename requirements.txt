@@ -9,6 +9,7 @@ cachetools
 certifi
 charset-normalizer
 click
+cmake
 datasets
 dill
 evaluate
