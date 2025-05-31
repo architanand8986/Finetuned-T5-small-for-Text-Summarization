@@ -48,7 +48,7 @@ regex
 requests
 rpds-py
 safetensors
-sentencepiece
+sentencepiece==0.1.99
 setuptools
 six
 smmap
