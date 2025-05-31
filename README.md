@@ -20,21 +20,6 @@ This project focuses on abstractive text summarization using the T5 Transformer 
 
 ---
 
-## 🧱 Project Structure
-
-Finetuning-T5-small-for-Text-Summarization/
-├── app.py # Streamlit UI
-├── inference.py # Inference function using base + LoRA model
-├── text-summarization-fine-tuning.ipynb # Training and evaluation notebook
-├── train.py # Training script with Seq2SeqTrainer + LoRA
-├── t5-lora-summarization/
-│ ├── adapter/ # LoRA adapter weights
-│ └── tokenizer/ # Saved tokenizer files
-├── requirements.txt
-├── README.md
-
----
-
 ## 📊 Model Performance
 
 | Metric   | Value |
