@@ -46,7 +46,7 @@ This project focuses on abstractive text summarization using the T5 Transformer 
 
 ```bash
 git clone https://github.com/architanand8986/Finetuned-T5-small-for-Text-Summarization.git
-cd Finetuning-T5-small-for-Text-Summarization
+cd Finetuned-T5-small-for-Text-Summarization
 
 # Install dependencies
 pip install -r requirements.txt
