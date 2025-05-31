@@ -21,9 +21,6 @@ text_input = st.text_area(
     label_visibility="collapsed"
 )
 
-# Optional: Customize summary length
-with st.expander("⚙️ Optional Settings"):
-    length_option = st.slider("Select desired summary length (approx.):", 30, 200, step=10, value=80)
 
 # Button & Summary Output
 if st.button("🔍 Summarize"):
