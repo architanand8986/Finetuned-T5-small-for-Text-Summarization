@@ -1,4 +1,4 @@
-# 📝 T5-LoRA News Article Summarization
+# 📝 T5-LoRA Text Summarization
 
 A parameter-efficient text summarization project that fine-tunes the `T5-small` model using Low-Rank Adaptation (LoRA) and deploys it via a fast, interactive Streamlit web application.
 
