@@ -26,7 +26,7 @@ This project focuses on abstractive text summarization using the T5 Transformer 
 |----------|--------|
 | ROUGE-1  | 34.02  |
 | ROUGE-2  | 14.61  |
-| ROUGE-L  | 2486   |
+| ROUGE-L  | 24.86  |
 | Epochs   | 3      |
 
 ✅ Evaluation performed on a test summarization dataset using `datasets` and Hugging Face's `rouge` metric.
