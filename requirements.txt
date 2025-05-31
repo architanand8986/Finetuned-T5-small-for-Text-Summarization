@@ -2,7 +2,7 @@ accelerate
 aiohappyeyeballs
 aiohttp
 aiosignal
-altair==5.5.0
+altair==4.2.2
 attrs
 blinker
 cachetools
