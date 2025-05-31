@@ -6,8 +6,9 @@ A parameter-efficient text summarization project that fine-tunes the `T5-small` 
 
 ## 🚀 Project Overview
 
-This project focuses on abstractive text summarization using the T5 Transformer architecture enhanced with **LoRA (Low-Rank Adaptation)** to minimize training time and resource usage. It processes long-form news articles into concise summaries, making it suitable for news aggregation, educational tools, and quick content scanning.
-<br>Checkout the Deployed on by <a href = "https://finetuned-t5-small-for-text-summarization-avaz6v29rrkn4bctyjs4.streamlit.app/">Clicking here. </a>
+This project focuses on abstractive text summarization using the T5 Transformer architecture enhanced with **LoRA (Low-Rank Adaptation) to minimize training time and resource usage. It processes long-form news articles into concise summaries, making it suitable for news aggregation, educational tools, and quick content scanning.
+<br>To checkout the Deployed one <a href = "https://finetuned-t5-small-for-text-summarization-avaz6v29rrkn4bctyjs4.streamlit.app/">Click here. </a>
+
 ---
 
 ## 🚀 Highlights
